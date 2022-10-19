@@ -1,0 +1,14 @@
+#searchimg{
+    margin: 10px;
+    max-width: 30%;
+}
+
+#form{
+    margin-top: 10px;
+}
+
+#form img {
+    position: relative;
+    left: 35%;
+    right: auto;
+}

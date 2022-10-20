@@ -10,9 +10,11 @@ export class SearchPatter {
         let n = this.txt.length
 
         let lps = []
+
         for (let i = 0; i < m; i++){
             lps.push(0)
         }
+        
         let j   = 0
         let i   = 0
 
